@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "892638681482",
+    "firebase_url": "https://eq01-6205a.firebaseio.com",
+    "project_id": "eq01-6205a",
+    "storage_bucket": "eq01-6205a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892638681482:android:ed6752a21f4590c7",
+        "android_client_info": {
+          "package_name": "com.example.coren.sherb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892638681482-pnde34n0mb1rabjlhre97oijouedgp1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coren.sherb",
+            "certificate_hash": "93df8125ee118b56fc0a3f5d494790217b4b18d9"
+          }
+        },
+        {
+          "client_id": "892638681482-6c4hlpk40ig6gnip5k7agk1esker6dd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coren.sherb",
+            "certificate_hash": "62d1e2b87febbf9ce4fb38f1314b78f88a2ffca5"
+          }
+        },
+        {
+          "client_id": "892638681482-1rs0npg50nc28pgntveuogo1rllol5jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_58v7FmifaldlDFxmcv5mlpmWd9Rd8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892638681482-1rs0npg50nc28pgntveuogo1rllol5jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

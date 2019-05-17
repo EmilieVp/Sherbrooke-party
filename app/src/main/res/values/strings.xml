@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sherb</string>
+    <string name="host">Créer une soirée</string>
+    <string name="host_title">Enter a title of your party</string>
+    <string name="host_description">Description of your party</string>
+    <string name="host_guest">Number of guests (maximum)</string>
+    <string name="address">Address of the party</string>
+    <string name="welcome">Welcome</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="accueil">Accueil</string>
+    <string name="create">Créer une soirée</string>
+    <string name="profil">Mon profil</string>
+    <string name="aide">Aide</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="list">Liste des soirées</string>
+    <string name="parties">Gérer mes soirées</string>
+    <string name="parametres">Paramètres</string>
+    <string name="map">Map</string>
+</resources>
